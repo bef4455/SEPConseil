@@ -14,6 +14,7 @@ import Joinus from './components/Joinus/index';
 import Insta from './components/Insta/index';
 
 
+
 export default function Home() {
   return (
     <main>
@@ -22,15 +23,15 @@ export default function Home() {
       <Dedicated />
       <Digital />
       <Beliefs />
-      <Wework />
+      {/* <Wework /> */}
       <Ourteam />
       {/* <Featured /> */}
-      <Manage />
+      {/* <Manage /> */}
       <FAQ />
       <Testimonials />
-      <Articles />
-      <Joinus />
-      <Insta />
+      {/*<Articles /> */}
+      {/* <Joinus /> */}
+      {/* <Insta /> */}
     </main>
   )
 }
