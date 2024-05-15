@@ -98,7 +98,7 @@ export default class MultipleItems extends Component {
                                     <div className="flex justify-between">
                                         <div>
                                             <h3 className='text-base font-medium pt-4 pb-2'>{items.name}</h3>
-                                            <h3 className='text-xs font-medium  pb-2 opacity-50'>{items.profession}</h3>
+                                           
                                         </div>
                                         <div className="flex">
                                             <StarIcon width={20} className="star" />
